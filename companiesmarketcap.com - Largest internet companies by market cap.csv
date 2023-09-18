@@ -1,0 +1,51 @@
+rank,name,symbol,marketcap,country
+1,Alphabet (Google),GOOG,1.7377E+12,United States
+2,Amazon,AMZN,1.44852E+12,United States
+3,Meta Platforms (Facebook),META,7.72746E+11,United States
+4,Tencent,TCEHY,3.86216E+11,China
+5,Alibaba,BABA,2.24449E+11,China
+6,Netflix,NFLX,1.75903E+11,United States
+7,Pinduoduo,PDD,1.32142E+11,China
+8,ServiceNow,NOW,1.18234E+11,United States
+9,Booking Holdings (Booking.com),BKNG,1.12793E+11,United States
+10,Meituan,3690.HK,98272527981,China
+11,Uber,UBER,97108074496,United States
+12,Airbnb,ABNB,91086487552,United States
+13,Shopify,SHOP,80019193856,Canada
+14,Equinix,EQIX,72626937856,United States
+15,PayPal,PYPL,70505152512,United States
+16,MercadoLibre,MELI,69962473472,Argentina
+17,Jingdong Mall,JD,50096222208,China
+18,Baidu,BIDU,47938838528,China
+19,Copart,CPRT,42124800000,United States
+20,The Trade Desk,TTD,40872710144,United States
+21,Interactive Brokers,IBKR,38237233152,United States
+22,Kuaishou Technology,1024.HK,35698075995,China
+23,Naspers,NPSNY,33799612416,South Africa
+24,East Money Information,300059.SZ,33615384742,China
+25,Coupang,CPNG,32713791488,South Korea
+26,DoorDash,DASH,31829606400,United States
+27,Spotify,SPOT,30871719936,Sweden
+28,Datadog,DDOG,30728656896,United States
+29,Naver,035420.KS,25272874445,South Korea
+30,eBay,EBAY,23712915456,United States
+31,Trip.com,TCOM,23471458304,China
+32,Z Holdings,4689.T,22719254348,Japan
+33,Sea (Garena),SE,22340851712,Singapore
+34,Zoom,ZM,21401051136,United States
+35,Cloudflare,NET,20975519744,United States
+36,VeriSign,VRSN,20701057024,United States
+37,Coinbase,COIN,19484008448,United States
+38,Pinterest,PINS,17225854976,United States
+39,JD Health,6618.HK,16926756247,China
+40,DiDi,DIDIY,16486294528,China
+41,Kakao,035720.KS,16311767333,South Korea
+42,Akamai,AKAM,15854007296,United States
+43,Expedia Group,EXPE,15327152128,United States
+44,Snap,SNAP,14864939008,United States
+45,DraftKings,DKNG,14401784832,United States
+46,Grab Holdings,GRAB,13859483648,Singapore
+47,Okta,OKTA,13831223296,United States
+48,REA Group,REA.AX,13492167349,Australia
+49,"M3, Inc",2413.T,13072545340,Japan
+50,Match Group,MTCH,12277541888,United States

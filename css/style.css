@@ -1,0 +1,79 @@
+:root {
+  --color-bg: #e8e9e9;
+  --color-text: #0b15a6;
+  --color-secondary: #cfd2e2;
+  --font-size-lg: 1.777rem;
+  --font-size-md: 1rem;
+  --font-size-sm: 0.75rem;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  font-size: var(--font-size-md);
+  line-height: 1.5;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1 {
+  margin: 0 0 2rem 0;
+  font-weight: 400;
+  font-size: var(--font-size-lg);
+  line-height: 1.2;
+  text-align: center;
+}
+
+p {
+  margin: 0 0 1rem 0;
+}
+
+a {
+  color: inherit;
+}
+
+main,
+footer {
+  width: min(800px, calc(100% - 2rem));
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.375rem;
+  background-color: var(--color-bg);
+  border: 1px solid var(--color-text);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease-in-out, visibility 0.15s ease-in-out;
+}
+
+.tooltip.is-active {
+  opacity: 0.95;
+  visibility: visible;
+}
+
+.voronoi-treemap {
+  position: relative;
+}
+
+.voronoi-treemap > svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.voronoi-treemap .voronoi-path {
+  color: var(--color-secondary);
+  stroke: var(--color-text);
+}
+
+.voronoi-treemap .voronoi-path.is-active {
+  stroke-width: 4px;
+}
