@@ -77,3 +77,7 @@ footer {
 .voronoi-treemap .voronoi-path.is-active {
   stroke-width: 4px;
 }
+
+.voronoi-treemap textPath {
+  fill: currentColor;
+}
